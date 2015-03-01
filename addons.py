@@ -19,6 +19,7 @@ __ADDONS__ = [
     "plugin.video.ta3.com",
     "plugin.video.teevee.sk",
     "plugin.video.tv.sosac.ph",
+    "plugin.video.sosac.ph",
     "plugin.video.videacesky.cz",
     "plugin.video.zkouknito.cz",
     "script.module.stream.resolver",
